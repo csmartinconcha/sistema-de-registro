@@ -5,4 +5,4 @@
 
 Para ejecutar el sistema, debes anteponer:
 
-''' NPM Install react'''
+''' NPM Install react''' Ok
