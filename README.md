@@ -6,3 +6,5 @@
 Para ejecutar el sistema, debes anteponer:
 
 ''' NPM Install react''' Ok
+
+Sistema de reistro 2
